@@ -1,0 +1,233 @@
+Task,table path,table,task ID,type of task,repetation,Condition,Order,C_answer,Participant ID,c_answer_row,c_answer_col,end,text,ans_value,mouse_file
+"When you are done reading these instructions, you will see a data table. Please carefully look at the table and explore it. 
+
+While you explore, describe aloud your thinking about what information this data table tries to convey. After this, describe any remarkable things that you find in this data. You will have 60 seconds in total for this task.",candy.csv_bar.png,candy.csv,ca-9,Describing,1,bar,b-c-p-z,Candy Name,2,1,#1,TRUE,"You have finished one condition for the task.
+
+",0,1
+"When you are done reading these instructions, you will see a data table. Please carefully look at the table and explore it. 
+
+While you explore, describe aloud your thinking about what information this data table tries to convey . After this, describe any remarkable things that you find in this data. You will have 60 seconds in total for this task ",cereal.csv_color.png,cereal.csv,ce-9,Describing,1,color,b-c-p-z,Cereal Name,2,1,#1,TRUE,"You have finished one condition for the task.
+",0,2
+"When you are done reading these instructions, you will see a data table. Please carefully look at the table and explore it. 
+
+While you explore, describe aloud your thinking about what information this data table tries to convey. After this, describe any remarkable things that you find in this data. You will have 60 seconds in total for this task.",anime.csv_plain.png,anime.csv,a-9,Describing,1,plain,b-c-p-z,Name,2,1,#1,TRUE,"You have finished one condition for the task.
+",0,3
+"When you are done reading these instructions, you will see a data table. Please carefully look at the table and explore it. 
+
+While you explore, describe aloud your thinking about what information this data table tries to convey. After this, describe any remarkable things that you find in this data. You will have 60 seconds in total for this task.",movie.csv_zebra.png,movie.csv,m-9,Describing,1,zebra,b-c-p-z,Film,2,1,#1,TRUE,"You have finished one type of task. 
+
+",0,4
+"Find the name of the Candy which has the highest ‘Pluribus’ value. 
+
+Press space as soon as you have found the answer, and say the name of the Candy aloud once the screen becomes white.  ",candy.csv_bar.png,candy.csv,ca-1-1,finding maximum vertical,1,bar,b-c-p-z,Pixie Sticks,2,20,#1,,,64,5
+"Find the name of the Candy which has the highest ‘Hard’ value. 
+
+Press space as soon as you have found the answer, and say the name of the Candy aloud once the screen becomes white.",candy.csv_bar.png,candy.csv,ca-2-1,finding maximum vertical,2,bar,b-c-p-z,Good Bar,2,11,#1,,,63,6
+"Find the name of the Candy which has the highest ‘Rating’ value. 
+
+Press space as soon as you have found the answer, and say the name of the Candy aloud once the screen becomes white. ",candy.csv_bar.png,candy.csv,ca-3-1,finding maximum vertical,3,bar,b-c-p-z,Fruit Chews,2,17,#1,,,96,7
+"Find the name of the Candy which has the highest ‘Bar’ value. 
+
+Press space as soon as you have found the answer, and say the name of the Candy aloud once the screen becomes white. ",candy.csv_bar.png,candy.csv,ca-4-1,finding maximum vertical,4,bar,b-c-p-z,Now Later,2,10,#1,TRUE,"You have finished one condition for the task.
+",45,8
+"Find the name of the cereal which has the highest ‘Potassium’ value. 
+
+Press space as soon as you have found the answer, and say the name of the cereal aloud once the screen becomes white.  ",cereal.csv_color.png,cereal.csv,ce-1-1,finding maximum vertical,1,color,b-c-p-z,Cinnamon Toast,2,8,#1,,,80,9
+"Find the name of the cereal which has the highest ‘Carbo’ value. 
+
+Press space as soon as you have found the answer, and say the name of the cereal aloud once the screen becomes white.",cereal.csv_color.png,cereal.csv,ce-2-1,finding maximum vertical,2,color,b-c-p-z,Fruit Fibre,2,29,#1,,,52,10
+"Find the name of the cereal which has the highest ‘Iron’ value. 
+
+Press space as soon as you have found the answer, and say the name of the cereal aloud once the screen becomes white. ",cereal.csv_color.png,cereal.csv,ce-3-1,finding maximum vertical,3,color,b-c-p-z,Cinnamon Toast,2,8,#1,,,66,11
+"Find the name of the cereal which has the highest ‘Sugars’ value. 
+
+Press space as soon as you have found the answer, and say the name of the cereal aloud once the screen becomes white. ",cereal.csv_color.png,cereal.csv,ce-4-1,finding maximum vertical,4,color,b-c-p-z,Sweet Combo,2,12,#1,TRUE,"You have finished one condition for the task.
+",59,12
+"Find the name of the Anime which has the highest ‘Completed’ value. 
+
+Press space as soon as you have found the answer, and say the name of the Anime aloud once the screen becomes white.",anime.csv_plain.png,anime.csv,a-1-1,finding maximum vertical,1,plain,b-c-p-z,Magical Warfare,2,25,#1,,,73,13
+"Find the name of the Anime which has the highest ‘Favorites’ value. 
+
+Press space as soon as you have found the answer, and say the name of the Anime aloud once the screen becomes white.",anime.csv_plain.png,anime.csv,a-2-1,finding maximum vertical,2,plain,b-c-p-z,Monster Hunter,2,6,#1,,,89,14
+"Find the name of the Anime which has the highest ‘Dropped’ value. 
+
+Press space as soon as you have found the answer, and say the name of the Anime aloud once the screen becomes white. ",anime.csv_plain.png,anime.csv,a-3-1,finding maximum vertical,3,plain,b-c-p-z,Fourth Stage,2,5,#1,,,98,15
+"Find the name of the Anime which has the highest ‘Watching’ value. 
+
+Press space as soon as you have found the answer, and say the name of the Anime aloud once the screen becomes white. ",anime.csv_plain.png,anime.csv,a-4-1,finding maximum vertical,4,plain,b-c-p-z,Best Humanity,2,27,#1,TRUE,"You have finished one condition for the task.
+",69,16
+"Find the name of the film which has the highest ‘Roger Ebert’ value. 
+
+Press space as soon as you have found the answer, and say the name of the film aloud once the screen becomes white.",movie.csv_zebra.png,movie.csv,m-1-1,finding maximum vertical,1,zebra,b-c-p-z,Running Night,2,12,#1,,,55,17
+"Find the name of the film which has the highest ‘Hulu’ value. 
+
+Press space as soon as you have found the answer, and say the name of the film aloud once the screen becomes white.  ",movie.csv_zebra.png,movie.csv,m-2-1,finding maximum vertical,2,zebra,b-c-p-z,Fantastic Four,2,21,#1,,,65,18
+"Find the name of the film which has the highest ‘Naver’ value. 
+
+Press space as soon as you have found the answer, and say the name of the film aloud once the screen becomes white.",movie.csv_zebra.png,movie.csv,m-3-1,finding maximum vertical,3,zebra,b-c-p-z,Water Diviner,2,19,#1,,,64,19
+"Find the name of the film which has the highest ‘Film Comment’ value. 
+
+Press space as soon as you have found the answer, and say the name of the film aloud once the screen becomes white.",movie.csv_zebra.png,movie.csv,m-4-1,finding maximum vertical,4,zebra,b-c-p-z,About Elly,2,16,#1,TRUE,"You have finished one type of task. Please take the survey that experimenter will hand it to you.
+You might want to take a short break and wait for experimenter’s response.
+
+",59,20
+"For the Candy called ‘Haribo Cola’, find which attribute has the largest numerical value. 
+
+Press space as soon as you have found the answer, and say the attribute aloud once the screen becomes white. ",candy.csv_bar.png,candy.csv,ca-1-2,finding maximum horizontal,1,bar,b-c-p-z,Hard,2,1,#7,,,53,21
+"For the Candy called ‘Berry Chews’, find which attribute has the largest numerical value. 
+
+Press space as soon as you have found the answer, and say the attribute aloud once the screen becomes white. ",candy.csv_bar.png,candy.csv,ca-2-2,finding maximum horizontal,2,bar,b-c-p-z,Rating,2,1,#11,,,48,22
+"For the Candy called ‘Pop Rocks’, find which attribute has the largest numerical value. 
+
+Press space as soon as you have found the answer, and say the value aloud once the screen becomes white. ",candy.csv_bar.png,candy.csv,ca-3-2,finding maximum horizontal,3,bar,b-c-p-z,Hard,2,1,#7,,,53,23
+"For the Candy called ‘Junior Mints’, find which attribute has the largest numerical value.
+
+Press space as soon as you have found the answer, and say the value aloud once the screen becomes white. ",candy.csv_bar.png,candy.csv,ca-4-2,finding maximum horizontal,4,bar,b-c-p-z,Almond,2,1,#5,TRUE,"You have finished one condition for the task.
+",38,24
+"For the cereal called ‘Smile Maker’, find which attribute has the largest numerical value. 
+
+Press space as soon as you have found the answer, and say the attribute aloud once the screen becomes white.",cereal.csv_color.png,cereal.csv,ce-1-2,finding maximum horizontal,1,color,b-c-p-z,Sugars,2,1,#8,,,53,25
+"For the cereal called ‘Froot Loops’, find which attribute has the largest numerical value. 
+
+Press space as soon as you have found the answer, and say the attribute aloud once the screen becomes white. ",cereal.csv_color.png,cereal.csv,ce-2-2,finding maximum horizontal,2,color,b-c-p-z,Calories,2,1,#4,,,92,26
+"For the cereal called ‘Lucky Charms’, find which attribute has the largest numerical value. 
+
+Press space as soon as you have found the answer, and say the value aloud once the screen becomes white.",cereal.csv_color.png,cereal.csv,ce-3-2,finding maximum horizontal,3,color,b-c-p-z,Fat,2,1,#2,,,47,27
+"For the cereal called ‘Sweet Combo’, find which attribute has the largest numerical value. 
+
+Press space as soon as you have found the answer, and say the value aloud once the screen becomes white. ",cereal.csv_color.png,cereal.csv,ce-4-2,finding maximum horizontal,4,color,b-c-p-z,Sugars,2,1,#8,TRUE,"You have finished one condition for the task.
+",59,28
+"For the Anime called ‘Metal Panic’, find which attribute has the largest numerical value. 
+
+Press space as soon as you have found the answer, and say the attribute aloud once the screen becomes white.",anime.csv_plain.png,anime.csv,a-1-2,finding maximum horizontal,1,plain,b-c-p-z,On-Hold,2,1,#10,,,61,29
+"For the Anime called ‘Fighting Animal’, find which attribute has the largest numerical value. 
+
+Press space as soon as you have found the answer, and say the attribute aloud once the screen becomes white. ",anime.csv_plain.png,anime.csv,a-2-2,finding maximum horizontal,2,plain,b-c-p-z,Plan to Watch,2,1,#12,,,71,30
+"For the Anime called ‘First Stage’, find which attribute has the largest numerical value. 
+
+Press space as soon as you have found the answer, and say the value aloud once the screen becomes white. ",anime.csv_plain.png,anime.csv,a-3-2,finding maximum horizontal,3,plain,b-c-p-z,Favorites,2,1,#7,,,69,31
+"For the Anime called ‘Fafnar Weapon’, find which attribute has the largest numerical value. 
+
+Press space as soon as you have found the answer, and say the value aloud once the screen becomes white. ",anime.csv_plain.png,anime.csv,a-4-2,finding maximum horizontal,4,plain,b-c-p-z,Dropped,2,1,#11,TRUE,"You have finished one condition for the task.
+",71,32
+"For the film called ‘Crazy Adventure’, find which attribute has the largest numerical value. 
+
+Press space as soon as you have found the answer, and say the attribute aloud once the screen becomes white. ",movie.csv_zebra.png,movie.csv,m-1-2,finding maximum horizontal,1,zebra,b-c-p-z,Rotten Tomatoes,2,1,#2,,,99,33
+"For the film called ‘Flights Up’, find which attribute has the largest numerical value. 
+
+Press space as soon as you have found the answer, and say the attribute aloud once the screen becomes white.",movie.csv_zebra.png,movie.csv,m-2-2,finding maximum horizontal,2,zebra,b-c-p-z,Netflix,2,1,#5,,,68,34
+"For the film called ‘Fantastic Four’, find which attribute has the largest numerical value. 
+
+Press space as soon as you have found the answer, and say the value aloud once the screen becomes white. ",movie.csv_zebra.png,movie.csv,m-3-2,finding maximum horizontal,3,zebra,b-c-p-z,Hulu,2,1,#7,,,65,35
+"For the film called ‘Running Night’, find which attribute has the largest numerical value. 
+
+Press space as soon as you have found the answer, and say the value aloud once the screen becomes white. ",movie.csv_zebra.png,movie.csv,m-4-2,finding maximum horizontal,4,zebra,b-c-p-z,Metacritic,2,1,#4,TRUE,"You have finished one type of task. Please take the survey that experimenter will hand it to you.
+You might want to take a short break and wait for experimenter’s response.
+
+",67,36
+"For the Candy called ‘Good Bar’, please find its ‘Bar’ value. 
+
+Press space as soon as you have found the answer, and say the value aloud once the screen becomes white. ",candy.csv_bar.png,candy.csv,ca-1-3,finding value,1,bar,b-c-p-z,24,2,11,#8,,,24,37
+"For the Candy called ‘Lemon Head’, please find its ‘Nougat’ value. 
+
+Press space as soon as you have found the answer, and say the value aloud once the screen becomes white.",candy.csv_bar.png,candy.csv,ca-2-3,finding value,2,bar,b-c-p-z,17,2,7,#6,,,17,38
+"For the Candy called ‘Fruit Chews’ please find its ‘Sugar Percent’ value. 
+
+Press space as soon as you have found the answer, and say the value aloud once the screen becomes white. ",candy.csv_bar.png,candy.csv,ca-3-3,finding value,3,bar,b-c-p-z,20,2,17,#10,,,20,39
+"For the Candy called ‘Crunch Time' please find its ‘Hard’ value. 
+
+Press space as soon as you have found the answer, and say the value aloud once the screen becomes white",candy.csv_bar.png,candy.csv,ca-4-3,finding value,4,bar,b-c-p-z,58,2,8,#7,TRUE,"You have finished one condition for the task.
+",58,40
+"For the cereal called ‘Golden Crisp’, please find its ‘Sugars’ value. 
+
+Press space as soon as you have found the answer, and say the value aloud once the screen becomes white. ",cereal.csv_color.png,cereal.csv,ce-1-3,finding value,1,color,b-c-p-z,21,2,11,#8,,,21,41
+"For the cereal called ‘Bran Chex’, please find its ‘Fiber’ value. 
+
+Press space as soon as you have found the answer, and say the value aloud once the screen becomes white. ",cereal.csv_color.png,cereal.csv,ce-2-3,finding value,2,color,b-c-p-z,40,2,7,#6,,,40,42
+"For the cereal called ‘Almond Raisin’ please find its ‘Score’ value. 
+
+Press space as soon as you have found the answer, and say the value aloud once the screen becomes white. ",cereal.csv_color.png,cereal.csv,ce-3-3,finding value,3,color,b-c-p-z,13,2,17,#10,,,13,43
+"For the cereal called ‘Cinnamon Toast’ please find its ‘Carbo’ value. 
+
+Press space as soon as you have found the answer, and say the value aloud once the screen becomes white. ",cereal.csv_color.png,cereal.csv,ce-4-3,finding value,4,color,b-c-p-z,43,2,8,#7,TRUE,"You have finished one condition for the task.
+",43,44
+"For the Anime called ‘Queen Kingdom’, please find its ‘Watching’ value. 
+
+Press space as soon as you have found the answer, and say the value aloud once the screen becomes white. ",anime.csv_plain.png,anime.csv,a-1-3,finding value,1,plain,b-c-p-z,47,2,11,#8,,,47,45
+"For the Anime called ‘Kidou Tenshi’, please find its ‘Members’ value. 
+
+Press space as soon as you have found the answer, and say the value aloud once the screen becomes white.",anime.csv_plain.png,anime.csv,a-2-3,finding value,2,plain,b-c-p-z,12,2,7,#6,,,12,46
+"For the Anime called ‘Connect Angel’, please find its ‘On-Hold’ value. 
+
+Press space as soon as you have found the answer, and say the value aloud once the screen becomes white.",anime.csv_plain.png,anime.csv,a-3-3,finding value,3,plain,b-c-p-z,50,2,17,#10,,,50,47
+"For the Anime called ‘Ultimate horror’, please find its ‘Favorites’ value. 
+
+Press space as soon as you have found the answer, and say the value aloud once the screen becomes white.",anime.csv_plain.png,anime.csv,a-4-3,finding value,4,plain,b-c-p-z,40,2,8,#7,TRUE,"You have finished one condition for the task.
+",40,48
+"For the film called ‘Welcome Home’, please find its ‘Film Comment’ value. 
+
+Press space as soon as you have found the answer, and say the value aloud once the screen becomes white. ",movie.csv_zebra.png,movie.csv,m-1-3,finding value,1,zebra,b-c-p-z,34,2,11,#8,,,34,49
+"For the film called 'Irrational Man’, please find its ‘IMDB’ value. 
+
+Press space as soon as you have found the answer, and say the value aloud once the screen becomes white.",movie.csv_zebra.png,movie.csv,m-2-3,finding value,2,zebra,b-c-p-z,63,2,7,#6,,,63,50
+"For the film called ‘Saint Laurent’, please find its ‘PluggedIn’ value. 
+
+Press space as soon as you have found the answer, and say the value aloud once the screen becomes white.",movie.csv_zebra.png,movie.csv,m-3-3,finding value,3,zebra,b-c-p-z,26,2,17,#10,,,26,51
+"For the film called ‘My Dreams’, please find its ‘Hulu’ value. 
+
+Press space as soon as you have found the answer, and say the value aloud once the screen becomes white. ",movie.csv_zebra.png,movie.csv,m-4-3,finding value,4,zebra,b-c-p-z,47,2,8,#7,TRUE,"You have finished one type of task. Please take the survey that experimenter will hand it to you.
+You might want to take a short break and wait for experimenter’s response.
+
+
+",47,52
+"For the Candys called ‘Now Later’ and ‘Cheese Bears’, find in which column in the last four columns of the table they are most different (proportionally). 
+
+Press space as soon as you have found the answer, and say the name of the Candy aloud once the screen becomes white.",candy.csv_bar.png,candy.csv,ca-1-4,finding proportinal difference,1,bar,b-c-p-z,Price,2,1,#12,,,Price,53
+"For the Candys called ‘Fruit Chews’ and ‘Life Savers’, find in which column in the last four columns of the table they are most different (proportionally). 
+
+Press space as soon as you have found the answer, and say the name of the Candys aloud once the screen becomes white.",candy.csv_bar.png,candy.csv,ca-2-4,finding proportinal difference,2,bar,b-c-p-z,Rating,2,1,#11,,,Rating,54
+"For the Candys called ‘Hersheys Kisses’ and ‘Rolo Chiclets’, find in which column in the last four columns of the table they are most different (proportionally). 
+
+Press space as soon as you have found the answer, and say the name of the Candy aloud once the screen becomes white. ",candy.csv_bar.png,candy.csv,ca-3-4,finding proportinal difference,3,bar,b-c-p-z,Rating,2,1,#11,,,Rating,55
+"For the Candys called ‘Crunch Time’ and ‘Gob Stopper’, find in which column in the last four columns of the table they are most different (proportionally). 
+
+Press space as soon as you have found the answer, and say the name of the Candy aloud once the screen becomes white.",candy.csv_bar.png,candy.csv,ca-4-4,finding proportinal difference,4,bar,b-c-p-z,SugarPercent,2,1,#10,TRUE,"You have finished one condition for the task.
+",SugarPercent,56
+"For the cereals called ‘Almond Delight’ and ‘Corn Favorite’, find in which column in the last four columns of the table they are most different (proportionally). 
+
+Press space as soon as you have found the answer, and say the name of the cereal aloud once the screen becomes white.",cereal.csv_color.png,cereal.csv,ce-1-4,finding proportinal difference,1,color,b-c-p-z,Score,2,1,#10,,,Score,57
+"For the cereals called ‘Almond Raisin’ and ‘Raisin Bran’, find in which column in the last four columns of the table they are most different (proportionally). 
+
+Press space as soon as you have found the answer, and say the name of the cereals aloud once the screen becomes white. ",cereal.csv_color.png,cereal.csv,ce-2-4,finding proportinal difference,2,color,b-c-p-z,Potassium,2,1,#9,,,Potassium,58
+"For the cereals called ‘Wheat Cream’ and ‘Apple Jacks’, find in which column in the last four columns of the table they are most different (proportionally). 
+
+Press space as soon as you have found the answer, and say the name of the cereal aloud once the screen becomes white.",cereal.csv_color.png,cereal.csv,ce-3-4,finding proportinal difference,3,color,b-c-p-z,Iron,2,1,#11,,,Iron,59
+"For the cereals called ‘Cinnamon Toast’ and ‘Honey Nut’, find in which column in the last four columns of the table they are most different (proportionally). 
+
+Press space as soon as you have found the answer, and say the name of the cereal aloud once the screen becomes white.",cereal.csv_color.png,cereal.csv,ce-4-4,finding proportinal difference,4,color,b-c-p-z,Vitamins,2,1,#12,TRUE,"You have finished one condition for the task.
+",Vitamins,60
+"For the Animes called ‘Black Cats’ and ‘Attacking Titan’, find in which column in the last four columns of the table they are most different (proportionally). 
+
+Press space as soon as you have found the answer, and say the name of the Animes aloud once the screen becomes white.",anime.csv_plain.png,anime.csv,a-1-4,finding proportinal difference,1,plain,b-c-p-z,Completed,2,1,#9,,,Completed,61
+"For the Animes called ‘Connect Angel’ and ‘Beating Music’, find in which column in the last four columns of the table they are most different (proportionally). 
+
+Press space as soon as you have found the answer, and say the name of the Animes aloud once the screen becomes white.",anime.csv_plain.png,anime.csv,a-2-4,finding proportinal difference,2,plain,b-c-p-z,On-Hold,2,1,#10,,,On-Hold,62
+"For the Animes called ‘Legendary Forks’ and ‘Great Teacher’, find in which column in the last four columns of the table they are most different (proportionally). 
+
+Press space as soon as you have found the answer, and say the name of the Anime aloud once the screen becomes white. ",anime.csv_plain.png,anime.csv,a-3-4,finding proportinal difference,3,plain,b-c-p-z,Plan to Watch,2,1,#12,,,Plan to Watch,63
+"For the Animes called ‘Ultimate horror’ and ‘Different Life’, find in which column in the last four columns of the table they are most different (proportionally). 
+
+Press space as soon as you have found the answer, and say the name of the Anime aloud once the screen becomes white.",anime.csv_plain.png,anime.csv,a-4-4,finding proportinal difference,4,plain,b-c-p-z,Dropped,2,1,#11,TRUE,"You have finished one condition for the task.
+",Dropped,64
+"For the films called ‘Hot Pursuit’ and ‘Mapping Stars’, find in which column in the last four columns of the table they are most different (proportionally). 
+
+Press space as soon as you have found the answer, and say the name of the film aloud once the screen becomes white. ",movie.csv_zebra.png,movie.csv,m-1-4,finding proportinal difference,1,zebra,b-c-p-z,Roger Ebert,2,1,#9,,,Roger Ebert,65
+"For the films called ‘Saint Laurent’ and ‘Next Door’, find in which column in the last four columns of the table they are most different (proportionally). 
+
+Press space as soon as you have found the answer, and say the name of the films aloud once the screen becomes white.",movie.csv_zebra.png,movie.csv,m-2-4,finding proportinal difference,2,zebra,b-c-p-z,Fandango,2,1,#12,,,Fandango,66
+"For the films called ‘Water Diviner’ and ‘Black White’, find in which column in the last four columns of the table they are most different (proportionally). 
+
+Press space as soon as you have found the answer, and say the name of the film aloud once the screen becomes white.",movie.csv_zebra.png,movie.csv,m-3-4,finding proportinal difference,3,zebra,b-c-p-z,PluggedIn,2,1,#10,,,PluggedIn,67
+"For the films called ‘My Dreams’ and ‘Tomorrow land’, find in which column in the last four columns of the table  they are most different (proportionally). 
+
+Press space as soon as you have found the answer, and say the name of the film aloud once the screen becomes white. ",movie.csv_zebra.png,movie.csv,m-4-4,finding proportinal difference,4,zebra,b-c-p-z,Naver,2,1,#11,TRUE,"You have finished the experiment, please ramain on the seat and wait for experimenter's response.",Naver,68
