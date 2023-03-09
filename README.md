@@ -1,6 +1,6 @@
 # Project Title
 
-Data Table Visualization
+Data Table Visualization, using Python to visualize and operate.
 
 ## Description
 
